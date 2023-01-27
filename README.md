@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eneko Galan</h1>
+<h1 align="center">Hey 👋, I'm Eneko Galan</h1>
 <h3 align="center">Subject: Programming</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript and Node.js**
 
 - 👨‍💻 My personal project [http://unforoinformatico.emiweb.es/](http://unforoinformatico.emiweb.es/)
 
-- 💬 Ask me about **HTML, CSS and Java**
-
 - 📫 How to reach me **egalanel22wg@ikzubirimanteo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eneko-galan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eneko-galan/" height="30" width="40" /></a>
 </p>
